@@ -23,5 +23,5 @@ packr  build
 * running
 
 ```code
-
+./packr-demo
 ```
